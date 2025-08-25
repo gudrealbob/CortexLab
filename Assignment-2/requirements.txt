@@ -2,3 +2,11 @@ jupyterlab
 ipykernel
 fitz
 pandas
+openai
+gradio
+ipywidgets
+PyMuPDF
+numpy
+scikit-learn
+ollama
+python-dotenv
