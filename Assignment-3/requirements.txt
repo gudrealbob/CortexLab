@@ -1,0 +1,8 @@
+jupyterlab
+ipykernel
+fitz
+pandas
+gradio
+PyMuPDF
+python-dotenv
+Llama_Index
